@@ -19,7 +19,8 @@ public class NumberCounter {
     System.out.println("Negative numbers:");
 } double sum = a+b+c;
  System.out.println("Sum:" + sum);
- double average = 
+ double average = (a+b+c)/3;
+  System.out.println("Average:" + average);
     
 
   }
