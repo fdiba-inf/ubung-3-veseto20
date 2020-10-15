@@ -15,6 +15,11 @@ public class NumberCounter {
       c=input.nextDouble();
     } while (a>0 && b>0 && c>0);
     System.out.println("Positive numbers:");
+  } if (a<=0 && b<=0 && c<=0);
+    System.out.println("Negative numbers:");
+} double sum = a+b+c;
+ System.out.println("Sum:" + sum);
+ double average = 
     
 
   }
