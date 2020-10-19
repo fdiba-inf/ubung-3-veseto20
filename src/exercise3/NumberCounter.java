@@ -9,7 +9,7 @@ public class NumberCounter {
     int positive = 0;
         int negative = 0;
         double sum = 0;
-        int average = 0;
+        double average = 0;
         int count = 0;
         int number= input.nextInt();
         while ( number !=0 ){
